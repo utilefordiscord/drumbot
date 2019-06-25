@@ -11,7 +11,7 @@ So, [**@tilda**](https://github.com/tilda) has made an API wrapper for Python fo
 In the nature of open-source, installation of this API wrapper is obviously permitted, but we really see no point why would someone want to use this.<br><br>
 As we can't do anything to stop you, to install run the following command:
 ```
-cd drumbot && chmod +x setup.py && ./setup.py
+chmod +x setup.py && ./setup.py
 ```
 
 ## API
