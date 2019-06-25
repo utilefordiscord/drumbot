@@ -17,6 +17,6 @@ class Drumbot:
     
     async def get_pattern(self, pattern):
         def make_url(pattern):
-            return f'https://api.noopschallenge.com/drumbot/patterns/{pattern}'
+            return f'{self.patterns}/{pattern}'
         async with self.session.get(make_url(pattern)) as p:
             return p.json()
