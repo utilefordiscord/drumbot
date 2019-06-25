@@ -2,7 +2,7 @@
 
 ## 👋 Drumbot wants you!
 
-Drumbot loves drum machines so much that she made an API dedicated to them.
+Drumbot loves drum machines so much that she made an API dedicated to them.<br>
 Miscord also loves music, but she isn't very good when it comes to creating music patterns.
 
 So, [**@tilda**](https://github.com/tilda) has made an API wrapper for Python for Miscord and Drumbot to work together!
