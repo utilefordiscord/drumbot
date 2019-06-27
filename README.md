@@ -9,10 +9,7 @@ So, [**@tilda**](https://github.com/tilda) has made an API wrapper for Python fo
 
 ## Installation
 In the nature of open-source, installation of this API wrapper is obviously permitted, but we really see no point why would someone want to use this.<br><br>
-As we can't do anything to stop you, to install run the following command:
-```
-chmod +x setup.py && ./setup.py
-```
+Just install like you would any other source python package: `python setup.py install`
 
 ## API
 Drumbot's API has the following methods:
